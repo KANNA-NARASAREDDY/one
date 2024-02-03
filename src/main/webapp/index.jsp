@@ -12,6 +12,8 @@
            <h1 style="color: ash; font-size: 40px;" align="center">Second DEPLOYMENT COMPLETED</h1>
            <h1 style="color: blue; font-size: 40px;" align="center">JENKINS AUTOMATION</h1>
             <h1 style="color: blue; font-size: 40px;" align="center">FIRST DEPLOYMENT COMPLETED ON TOMCAT</h1>
+            <h1 style="color: grey; font-size: 40px;" align="center">JENKINS AUTOMATION using TOMCAT</h1>
+
 
 
 	
